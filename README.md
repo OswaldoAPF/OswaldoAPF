@@ -6,7 +6,7 @@ Hello to you who are viewing this profile, I welcome you to the corner where I k
 
 Every day I like:<br>
 Program<br>
-create new things<br>
+Create new things<br>
 Playing video games<br>
 Watch series and movies
 
@@ -29,6 +29,8 @@ Watch series and movies
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 <hr>
 
@@ -58,5 +60,8 @@ Cloud technologies☁💻
 
 - 📫 How to contact me:
 
+<br>
+
 <a href="mailto:oswaldopereira09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/oswaldoapf"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
