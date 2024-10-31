@@ -10,6 +10,9 @@ Create new things<br>
 Playing video games<br>
 Watch series and movies
 
+🚀 Portfolio:
+<a href="https://oswaldo-pereira.netlify.app/">Oswaldo Pereira</a>
+
 <hr>
 
 👨‍💻Technologies:
@@ -59,11 +62,12 @@ Some personal projects 🤓
 Cloud technologies☁💻
 
 - 💬 Ask me what you want about me!
-
+- 
 - 📫 How to contact me:
 
 <br>
 
 <a href="mailto:oswaldopereira09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/oswaldoapf"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
