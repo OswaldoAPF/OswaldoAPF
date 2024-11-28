@@ -62,7 +62,6 @@ Some personal projects 🤓
 Cloud technologies☁💻
 
 - 💬 Ask me what you want about me!
-- 
 - 📫 How to contact me:
 
 <br>
